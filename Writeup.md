@@ -14,9 +14,9 @@
 ## Strengths and Weaknesses
 * While working on the infographic, the best part was the contribution of the team to come up with creative ideas and the analysis done on the dataset. The team used Tableau, to understand the dataset and to get some of the visualizations done.
 * The infographic designing platform is very user friendly which gave us freedom of uploading images of our choice. The templates in Venngage are very stylish and gave us freedom to use and change designs of our choice.
-* The team contributed equally which was the best part. Out of 3 pages in inforgraphics Shraddha, Aarushi and Aayushi made one-one page each.
+* Out of 3 pages in inforgraphics Shraddha, Aarushi and Aayushi made one-one page each.
 * The bad part about the venngage is the limitations for editing things to some extent. Also, there is limitation for uploading the number of images which was kind of disappointing.
-* Also, we found some issues in getting visualizations on Tableau.
+* The team found some issues in getting visualizations on Tableau.
 * The team wanted to get some more comparison based visualizations from the dataset ans still woking on it get some relevant insights to understand the pattern for UFO sightings.
 
 
