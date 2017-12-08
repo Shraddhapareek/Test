@@ -13,8 +13,7 @@
 ## Strengths and Weaknesses
 * While working on the infographic, the best part was the contribution of the team to come up with creative ideas and the analysis done on the dataset. The team used Tableau, to understand the dataset and to get some of the visualizations done.
 * The infographic designing platform is very user friendly which gave us freedom of uploading images of our choice. The templates in Venngage are very stylish and gave us freedom to use and change designs of our choice.
-* 
-* The bad part about the venngage is the limitations for editing things to some extent. Also, there is limitation for uploading the number of images which was kind of disappointing.
+* The bad part about the Venngage is the limitations for editing things to some extent. Also, there is limitation for uploading the number of images which was kind of disappointing.
 
 ## Contributions
 Shraddha, Aarushi and Aayushi designed infographic. Everyone was involved in exploring the dataset and other aspects like deciding which dataset should be used for normalization, should normalization and log tranformation be mutually exclusive etc. These discussions were common to both this part and part three.
