@@ -9,8 +9,15 @@
  * The dataset also tells us that the maximum sightings were recorded after sunset and before sunrise in USA, that is in darkness. So, it can be assumed that in absence of sunlight, the waterbodies around these states are dark and the boundaries of the states are full of lights, which attracts UFOs towards these states.
   * Another surprising observation is that the states which have maximum number of sightings are the states with maximum number of population. One assumption could be that the number of population is directly proportional to the number of sightings. This could be the possibility that more people have seen more UFOs resulting in more recordings.
 * One of the important findings from component 3 is the high correlation between the number of population and the number of sightings. If we see the maps from page 2, we can see that the states like California is highlighted in dark blue color representing the high number of sightings. But when we normalized the data by year-wise population, we can see that the colour has changed. It is because that per capita sighting is not maximum in the states with maximum number of population. 
-* Taking top 5 states with maximum sightings, when we analyzed the number of sightings year wise, we noticed a gradual increase in the number of sightings till year 2012, but after that we noticed a remarkable decline in the number of sightings. This observation made us think about the possible reasons for this decline. One of the possible assumptions could be the advanced technology ,because of which the efficiency for recognizing UFOs correctly increased with time leading to the actual records of UFOs and not any sort of misinterpretations.
+* Taking top 5 states with maximum sightings, when we analyzed the number of sightings year wise, we noticed a gradual increase in the number of sightings till year 2012, but after that we noticed a remarkable decline in the number of sightings. This observation made us think about the possible reasons for this decline. One of the possible assumptions could be the advanced technology, because of which the efficiency for recognizing UFOs correctly increased with time leading to the actual records of UFOs and not any sort of misinterpretations.
 
- * 
+## Strengths and Weaknesses
+* While working on the infographics, the best part was the contribution of the team to come up with creative ideas and the analysis done on the dataset. The team used Tableau, to get some of the visualizations and to understand the dataset.
+* The infographic designing platform is very user friendly which gave us freedom of uploading images of our choice. The templates in Venngage are very stylish and gave us freedom to use and change designs of our choice.
+* The team contributed equally which was the best part. out of 3 pages in inforgraphics Shraddha, Aarushi and Aayushi made one-one page each.
+* The bad part about the venngage is the limitations for editing things to some extend. Also there is limitation for uploading the number of images which was kind of disappointing.
+* Also, we found some issues in getting visaulizations on Tableau.
+
+
  
    
