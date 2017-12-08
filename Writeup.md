@@ -1,9 +1,7 @@
 # INFOGRAPHIC
 * We used UFO dataset for the infographic. 
 * https://venngage.com/ was used for designing.
-
-The insights from infographic which the team desigined are as follows:
-  
+ 
  ## Insights included in the Infographic
  * All of our observation are based on data from USA.
  * Out of all the records in the dataset, 81% of the sighting records are from USA.
